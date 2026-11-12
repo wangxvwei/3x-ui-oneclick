@@ -30,7 +30,7 @@ TCP 80                    → 只应答 Let's Encrypt 验证
 ## 使用
 
 ```bash
-curl -fsSLO https://raw.githubusercontent.com/<你的用户名>/3x-ui-oneclick/main/deploy-vps.sh
+curl -fsSLO https://raw.githubusercontent.com/wangxvwei/3x-ui-oneclick/main/deploy-vps.sh
 bash deploy-vps.sh
 ```
 
